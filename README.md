@@ -12,7 +12,7 @@ This project is an Expense Tracker built with Express.js, Sequelize ORM, and MyS
 - [Authentication](#authentication)
 - [Testing](#testing)
 - [License](#license)
-
+```
 ## Project Setup
 
 1. Clone the repository:
